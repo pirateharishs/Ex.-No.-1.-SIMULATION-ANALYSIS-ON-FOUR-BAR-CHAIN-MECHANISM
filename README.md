@@ -53,9 +53,11 @@
 
 
 ## Output:
-![Screenshot 2023-06-13 180202](https://github.com/Praveen0500/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/120218611/cb096986-1393-4e94-ba64-c58b0127ac43)
+![img1](https://github.com/Rakshithajagadeesh07/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/147081797/1af449c1-3269-4d61-8fd0-fa2c1446690f)
 
-![Screenshot 2023-06-13 181556](https://github.com/Praveen0500/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/120218611/6239c882-85bf-47d2-a3ab-a4f524988940)
+![img 2](https://github.com/Rakshithajagadeesh07/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/147081797/ff1624df-959f-4ea4-9146-f223f288f7ef)
+
+![img 3](https://github.com/Rakshithajagadeesh07/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/147081797/f6fc8473-035a-4c41-b514-1b66076eaec9)
 
 
 ### Name:HARISH S
